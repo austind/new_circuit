@@ -1,0 +1,8 @@
+﻿$SiteName = "Death Star"
+$PANOSTag = "Empire"
+$PANOSNetworkGroupMap = @{
+    'STAFF' = @('Staff', 'Voice')
+    'STUDENT' = @('Student', 'eSports')
+    'GUEST' = @('Guest')
+    'MGMT' = @('Mgmt', 'Cameras')
+}
